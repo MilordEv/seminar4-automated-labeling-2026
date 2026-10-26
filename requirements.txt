@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+pyarrow
+requests
+tqdm
+torch
+transformers==4.57.1
+accelerate
+lm-format-enforcer==0.11.3
+sentencepiece
+protobuf
